@@ -4,7 +4,7 @@
 
 [About Me](#more-about-me) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [My Programming Interests](#my-programming-interests)
 
-Here is a picture of me with my PC in the background:
+Here is a picture of me with my PC in the background:<br>
 ![Picture of Pranav](pictures/IMG_7519.jpg)
 
 ## My Programming Interests
